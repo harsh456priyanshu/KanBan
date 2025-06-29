@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/harsh456priyanshu/KanBan/static/css/main.d5da5fea.css",
-    "main.js": "/harsh456priyanshu/KanBan/static/js/main.f82f80dc.js",
+    "main.js": "/harsh456priyanshu/KanBan/static/js/main.1a446d29.js",
     "static/media/product4.jpg": "/harsh456priyanshu/KanBan/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/harsh456priyanshu/KanBan/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/harsh456priyanshu/KanBan/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -16,10 +16,10 @@
     "static/media/product5.jpg": "/harsh456priyanshu/KanBan/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/harsh456priyanshu/KanBan/index.html",
     "main.d5da5fea.css.map": "/harsh456priyanshu/KanBan/static/css/main.d5da5fea.css.map",
-    "main.f82f80dc.js.map": "/harsh456priyanshu/KanBan/static/js/main.f82f80dc.js.map"
+    "main.1a446d29.js.map": "/harsh456priyanshu/KanBan/static/js/main.1a446d29.js.map"
   },
   "entrypoints": [
     "static/css/main.d5da5fea.css",
-    "static/js/main.f82f80dc.js"
+    "static/js/main.1a446d29.js"
   ]
 }
